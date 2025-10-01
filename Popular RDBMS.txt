@@ -1,0 +1,67 @@
+Popular RDBMS
+
+MySQL: An open-source relational database known for its speed and reliability. It is widely used by large organizations like Facebook, Google, and Twitter.
+
+Oracle: A widely used commercial RDBMS known for its scalability and enterprise features. It is used in various industries for large-scale applications.
+
+Microsoft SQL Server: A commercial RDBMS by Microsoft, known for its ease of integration with other Microsoft products. It is used for enterprise-level applications.
+
+SQLite: A lightweight, disk-based database that is self-contained and serverless. It is widely deployed in mobile devices, browsers, and embedded systems.
+
+IBM Db2: IBM's enterprise database known for its advanced data management capabilities. It supports both transactional and analytical workloads.
+
+Amazon Aurora: A MySQL-compatible DBMS offering enhanced high availability and performance. It is available through Amazon RDS.
+
+MariaDB: Made by the original developers of MySQL, MariaDB aims to maintain high compatibility with MySQL while offering additional features.
+
+SAP HANA: An in-memory, column-oriented RDBMS developed by SAP. It is designed for high-performance analytics and transactional processing.
+
+Firebird: An open-source SQL RDBMS that runs on various operating systems including Linux, Windows, and Mac OS X.
+
+Modern SQL Databases
+
+CockroachDB: A distributed SQL database built for cloud applications. It offers high availability and horizontal scalability
+
+
+VoltDB: A high-performance in-memory SQL database designed for real-time analytics and transactional processing
+
+
+YugabyteDB: A distributed SQL database for high-performance and cloud-native applications
+
+
+TimescaleDB: An open-source time-series SQL database optimized for fast ingest and complex queries
+
+
+PlanetScale: A serverless database platform built on MySQL and Vitess, designed for cloud-native applications
+
+
+Other Notable RDBMS
+
+Greenplum: An open-source data warehouse based on PostgreSQL, designed for large-scale data analytics
+
+
+Netezza: A technology used for business intelligence and data warehousing applications, now known as IBM PureData System for Analytics.
+
+
+Teradata: A massively parallel processing system designed for data warehousing and large-scale data analytics
+
+
+Vertica: A cluster-based, column-oriented system designed for managing large volumes of data and providing fast query performance.
+
+
+SQLite: A software library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine.
+
+
+These RDBMS are used in various industries and applications, providing robust and scalable solutions for managing relational data
+
+
+
+Object-Relational Mapping (ORM) frameworks provide a seamless way to interact with multiple database backends by abstracting the complexities of database-specific operations.
+
+Hibernate: A widely used ORM framework in the Java ecosystem, Hibernate provides comprehensive mapping capabilities and supports complex data types and relationships.  
+‍
+Entity Framework: This ORM framework is utilized in the .NET environment and allows developers to work with databases using .NET objects, offering features like lazy loading, change tracking, and LINQ support for querying.  
+‍
+Django ORM: Part of the Django web framework, Django ORM provides a simple and powerful way to define data models and interact with the underlying database using Python objects.  
+‍
+SQLAlchemy: A Python SQL toolkit and ORM, SQLAlchemy offers flexibility and control over database interactions, supporting both high-level ORM and low-level SQL expressions.
